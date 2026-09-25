@@ -1,6 +1,6 @@
 # AI Meeting Notes Copilot — Network Links
 
-Notes, decisions and action items from every meeting.
+Turn meeting transcripts into decisions, owners and follow-ups.
 
 ## Live
 - App: https://ziontechgroup.com/ai-meeting-notes-copilot/
@@ -8,9 +8,9 @@ Notes, decisions and action items from every meeting.
 - Pages: https://zion-support.github.io/ai-meeting-notes-copilot/
 
 ## Related apps
-- [meeting-cost-calculator](https://ziontechgroup.com/meeting-cost-calculator/) · [GitHub](https://github.com/Zion-support/meeting-cost-calculator)
 - [incident-comms-writer](https://ziontechgroup.com/incident-comms-writer/) · [GitHub](https://github.com/Zion-support/incident-comms-writer)
-- [employee-engagement-pulse](https://ziontechgroup.com/employee-engagement-pulse/) · [GitHub](https://github.com/Zion-support/employee-engagement-pulse)
+- [proposal-builder-ai](https://ziontechgroup.com/proposal-builder-ai/) · [GitHub](https://github.com/Zion-support/proposal-builder-ai)
+- [deal-desk-copilot](https://ziontechgroup.com/deal-desk-copilot/) · [GitHub](https://github.com/Zion-support/deal-desk-copilot)
 
 ## Network
 - Homepage: https://ziontechgroup.com
