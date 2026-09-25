@@ -1,6 +1,6 @@
 # AI Meeting Notes Copilot — Network Links
 
-AI meeting notes, action items and follow-ups synced to CRM.
+Notes, decisions and action items from every meeting.
 
 ## Live
 - App: https://ziontechgroup.com/ai-meeting-notes-copilot/
